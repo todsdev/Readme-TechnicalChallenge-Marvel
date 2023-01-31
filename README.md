@@ -50,23 +50,18 @@ The application was developed to supply the requisites of a *Technical Challenge
 ![](https://media.discordapp.net/attachments/655489748885831713/1070094566839038033/ezgif.com-gif-maker.gif)
 >- Displays the **character list** paginated by [Paging 3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview?hl=pt-br), loading each page containing 20 items. 
 ***
-
 ![](https://media.discordapp.net/attachments/655489748885831713/1070095064178638948/ezgif.com-gif-maker-2.gif)
 >- *Search* any **character** from [Marvel API](https://developer.marvel.com) with simple clicks
 ***
-
-![](https://media.discordapp.net/attachments/655489748885831713/1070096263237869670/ezgif.com-gif-maker-3.gif)
+![](https://media.discordapp.net/attachments/655489748885831713/1070102220579819641/ezgif.com-gif-maker.gif)
 >- Any data related to the **character** provided by [Marvel API](https://developer.marvel.com) is displayed in it's *details screen*, such as **events**, **comics**, **stories**, **series** and **description**
 ***
-
 ![](https://media.discordapp.net/attachments/655489748885831713/1070097122256494592/ezgif.com-gif-maker-4.gif)
 >- Check any specific content with more informtation, selecting it to reach it's *details screen*
 ***
-
-![](https://media.discordapp.net/attachments/655489748885831713/1070098498986446878/ezgif.com-gif-maker-5.gif)
+![](https://media.discordapp.net/attachments/655489748885831713/1070102865793781860/ezgif.com-gif-maker-2.gif)
 >- *Add* and *remove* items to personalised **favorite list** from the *details screen*, *delete* and *restore* any deleted items by mistake from the *favorite screen* if necessary
 ***
-
 ![](https://media.discordapp.net/attachments/655489748885831713/1070099274609741885/ezgif.com-gif-maker-6.gif)
 >- *Delete all* your **favorites** with few clicks if necessary
 ---
