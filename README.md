@@ -59,7 +59,7 @@ The application was developed to supply the requisites of a *Technical Challenge
 ![](https://media.discordapp.net/attachments/655489748885831713/1070097122256494592/ezgif.com-gif-maker-4.gif)
 >- Check any specific content with more informtation, selecting it to reach it's *details screen*
 ***
-![](https://media.discordapp.net/attachments/655489748885831713/1070102865793781860/ezgif.com-gif-maker-2.gif)
+![](https://media.discordapp.net/attachments/655489748885831713/1070103821948305519/ezgif.com-gif-maker-4.gif)
 >- *Add* and *remove* items to personalised **favorite list** from the *details screen*, *delete* and *restore* any deleted items by mistake from the *favorite screen* if necessary
 ***
 ![](https://media.discordapp.net/attachments/655489748885831713/1070099274609741885/ezgif.com-gif-maker-6.gif)
